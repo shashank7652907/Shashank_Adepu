@@ -2,7 +2,7 @@
 
 Email: shashankadepu@gmail.com  
 Phone: +91-7330958964  
-LinkedIn: [linkedin.com/in/shashank-adepu-97a02824b](https://www.linkedin.com/in/shashank-adepu-97a02824b)  
+LinkedIn: [linkedin.com/in/shashank-adepu-97a02824b](https://www.linkedin.com/in/shashank-a-97a02824b/)  
 GitHub: [github.com/shashank7652907](https://github.com/shashank7652907)
 
 ---
@@ -30,8 +30,7 @@ I’m particularly interested in building real-time applications, working with l
 
 A PDF version of my ATS-friendly resume is available here:
 
-[Download Shashank Adepu Resume (PDF)](./Shashank_Adepu_Embedded_Resume.pdf)
-
+https://drive.google.com/file/d/1juQS66XHNJcNvfYfHKkYW_IojxzAWr_O/view?usp=sharing
 ---
 
 ## Highlighted Projects
